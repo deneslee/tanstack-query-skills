@@ -1,0 +1,9 @@
+{
+  "name": "query-skills",
+  "version": "5.104.5",
+  "private": true,
+  "description": "Local copy of the TanStack Query intent skills, updated for @tanstack/react-query 5.104 (queryClient.query). Delete when TanStack Query ships official skills.",
+  "keywords": ["tanstack-intent"],
+  "intent": { "version": 1, "repo": "TanStack/query", "docs": "https://tanstack.com/query" },
+  "files": ["skills"]
+}
